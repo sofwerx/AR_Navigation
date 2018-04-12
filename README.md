@@ -37,7 +37,7 @@ To add GeoPackage files to the system navigate to the following folder on the An
 Once the data has been loaded into the system restart the application. For best results face north when loading the GeoPackage data and load the GeoPackage Data before pressing the Switch Mode button. Once the data has been loaded into the scene, you can press the Switch Mode button to see the top down view of the map. If major issues occur with the placement or orientation, an app restart is the best way to resolve at this time.
 
 Some Notes:
-  * Rotating the map in the Table Top Mode will update your position and rotation.
+  * Rotating the map with your fingers in the Table Top Mode will update your position and rotation.
   * When rotating or moving the map any routes or area of interests lines will rotate and move with the camera, to fix this issue tap the screen once to reset the lines to their correct orientations.
   * As you move through the environment, if the ARCore tracking is interrupted it can cause issues. In my testing this mostly occured with the Galaxy S7.
   * As you move through the environment, the accuracy can shift of your position in relation to objects.
